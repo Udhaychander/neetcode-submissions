@@ -1,8 +1,6 @@
 # 🚀 NeetCode Solutions — @Udhaychander
 
 > My accepted solutions from [NeetCode.io](https://neetcode.io), synced automatically to GitHub.
->
-> 🔄 The **green "Problems Solved" badge above updates by itself** — it counts the folders in my solutions directory live, so every new problem I sync bumps the number automatically.
 
 ![NeetCode Problems Solved](https://img.shields.io/github/directory-file-count/Udhaychander/neetcode-submissions/Data%20Structures%20%26%20Algorithms?type=dir&label=NeetCode%20Problems%20Solved&color=brightgreen)
 ![Submissions](https://img.shields.io/badge/Submissions-157-blue)
